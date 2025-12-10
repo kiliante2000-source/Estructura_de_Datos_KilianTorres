@@ -154,6 +154,7 @@ async def delete_order(order_id: int):
 
 
 
+
 #ProductNode contiene las clases de producto y el arbol binario de busqueda
 #Lo que vamos a comprobar es que se pueda insertar productos en el arbol
 # @app.get("/test_product_node")
